@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":memo: 주석종류" />
+    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":sparkles: 연산자 우선순위">
+      <changelist_data name="Eevee" email="156054454+eeeevee@users.noreply.github.com" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Eevee &lt;156054454+eeeevee@users.noreply.github.com&gt;" />
+        <option value="Eevee" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -24,10 +41,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Hw01.executor": "Run",
+    "Application.Hw02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.github.patou.gitmoji.display-icon": "emoji",
+    "com.github.patou.gitmoji.text-after-unicode": " ",
     "git-widget-placeholder": "Eevee",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "CodeWithMe"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,12 +76,39 @@
       <option name="project" value="LOCAL" />
       <updated>1714748583145</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=":sparkles: 1주차 과제">
+      <option name="closed" value="true" />
+      <created>1714748971642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714748971642</updated>
+    </task>
+    <task id="LOCAL-00004" summary=":sparkles: 2주차 과제">
+      <option name="closed" value="true" />
+      <created>1714749747099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714749747099</updated>
+    </task>
+    <task id="LOCAL-00005" summary=":sparkles: 연산자 우선순위">
+      <option name="closed" value="true" />
+      <created>1714921137529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921137529</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":memo: plugin 설정 변경" />
     <MESSAGE value=":memo: 주석종류" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 주석종류" />
+    <MESSAGE value=":sparkles: 1주차 과제" />
+    <MESSAGE value=":sparkles: 2주차 과제" />
+    <MESSAGE value=":sparkles: 연산자 우선순위" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: 연산자 우선순위" />
   </component>
 </project>

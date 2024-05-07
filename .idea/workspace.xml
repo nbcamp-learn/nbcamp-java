@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":sparkles: 연산자 우선순위">
-      <changelist_data name="Eevee" email="156054454+eeeevee@users.noreply.github.com" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: 산술 변환, 비트 연산">
+      <change beforePath="$PROJECT_DIR$/src/w02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w02/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nbcamp-learn/nbcamp-java.git",
+    "accountId": "7739ce33-21e8-4144-bfe3-0b54ccabf8f7"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -43,6 +51,7 @@
   "keyToString": {
     "Application.Hw01.executor": "Run",
     "Application.Hw02.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.github.patou.gitmoji.display-icon": "emoji",
     "com.github.patou.gitmoji.text-after-unicode": " ",
@@ -100,15 +109,44 @@
       <option name="project" value="LOCAL" />
       <updated>1714921137529</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=":sparkles: 연산자 우선순위">
+      <option name="closed" value="true" />
+      <created>1714921045164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921045164</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":heavy_plus_sign: 산술 변환, 비트 연산">
+      <option name="closed" value="true" />
+      <created>1714921471982</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921471982</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":memo: plugin 설정 변경" />
     <MESSAGE value=":memo: 주석종류" />
     <MESSAGE value=":sparkles: 1주차 과제" />
     <MESSAGE value=":sparkles: 2주차 과제" />
+    <MESSAGE value="fixup! :sparkles: 2주차 과제" />
     <MESSAGE value=":sparkles: 연산자 우선순위" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: 연산자 우선순위" />
+    <MESSAGE value=":heavy_plus_sign: 산술 변환, 비트 연산" />
+    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: 산술 변환, 비트 연산" />
   </component>
 </project>

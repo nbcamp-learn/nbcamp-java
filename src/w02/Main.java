@@ -23,17 +23,17 @@ public class Main {
 
         // 산술 변환
 
-        short x = 10;
-        int y = 20;
+        short x2 = 10;
+        int y2 = 20;
 
-        int z = x + y; // 결과값은 더 큰 표현타입인 int 타입의 변수로만 저장할 수 있습니다.
+        int z2 = x2 + y2; // 결과값은 더 큰 표현타입인 int 타입의 변수로만 저장할 수 있습니다.
 
         long lx = 30L;
         long lz = z + lx; // 결과값은 더 큰 표현타입인 long 타입의 변수로만 저장할 수 있습니다.
 
-        float fx = x; // 결과값은 더 큰 표현타입인 float 타입의 변수로만 저장할 수 있습니다.
-        float fy = y; // 결과값은 더 큰 표현타입인 float 타입의 변수로만 저장할 수 있습니다.
-        float fz = z; // 결과값은 더 큰 표현타입인 float 타입의 변수로만 저장할 수 있습니다.
+        float fx = x2; // 결과값은 더 큰 표현타입인 float 타입의 변수로만 저장할 수 있습니다.
+        float fy = y2; // 결과값은 더 큰 표현타입인 float 타입의 변수로만 저장할 수 있습니다.
+        float fz = z2; // 결과값은 더 큰 표현타입인 float 타입의 변수로만 저장할 수 있습니다.
         System.out.println(lz);
         System.out.println(fx);
         System.out.println(fy);

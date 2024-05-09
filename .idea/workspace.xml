@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: 산술 변환, 비트 연산">
-      <change beforePath="$PROJECT_DIR$/src/w02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w02/Main.java" afterDir="false" />
+    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: 선택적 구구단">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,6 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {}
@@ -52,6 +51,7 @@
     "Application.Hw01.executor": "Run",
     "Application.Hw02.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.TimesTable.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.github.patou.gitmoji.display-icon": "emoji",
     "com.github.patou.gitmoji.text-after-unicode": " ",
@@ -125,7 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714921471982</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=":memo: .">
+      <option name="closed" value="true" />
+      <created>1715090970484</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715090970484</updated>
+    </task>
+    <task id="LOCAL-00009" summary=":sparkles: class 구구단">
+      <option name="closed" value="true" />
+      <created>1715090999764</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715090999764</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":heavy_plus_sign: 선택적 구구단">
+      <option name="closed" value="true" />
+      <created>1715094090891</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715094090891</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +171,9 @@
     <MESSAGE value="fixup! :sparkles: 2주차 과제" />
     <MESSAGE value=":sparkles: 연산자 우선순위" />
     <MESSAGE value=":heavy_plus_sign: 산술 변환, 비트 연산" />
-    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: 산술 변환, 비트 연산" />
+    <MESSAGE value=":memo: ." />
+    <MESSAGE value=":sparkles: class 구구단" />
+    <MESSAGE value=":heavy_plus_sign: 선택적 구구단" />
+    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: 선택적 구구단" />
   </component>
 </project>

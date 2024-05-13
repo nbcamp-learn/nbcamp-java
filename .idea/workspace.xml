@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: 깊은 복사 메서드" />
+    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":memo: .">
+      <change beforePath="$PROJECT_DIR$/src/w02/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w02/Array.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715612240396</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=":memo: .">
+      <option name="closed" value="true" />
+      <created>1715615885035</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715615885035</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +191,7 @@
     <MESSAGE value=":heavy_plus_sign: 얕은 복사" />
     <MESSAGE value=":heavy_plus_sign: 깊은 복사" />
     <MESSAGE value=":heavy_plus_sign: 깊은 복사 메서드" />
-    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: 깊은 복사 메서드" />
+    <MESSAGE value=":memo: ." />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: ." />
   </component>
 </project>

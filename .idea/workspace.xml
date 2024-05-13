@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: 얕은 복사" />
+    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: 깊은 복사" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715439035342</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=":heavy_plus_sign: 깊은 복사">
+      <option name="closed" value="true" />
+      <created>1715439158629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715439158629</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":heavy_plus_sign: 깊은 복사">
+      <option name="closed" value="true" />
+      <created>1715446386023</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715446386023</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +170,7 @@
     <MESSAGE value=":sparkles: 연산자 우선순위" />
     <MESSAGE value=":heavy_plus_sign: 산술 변환, 비트 연산" />
     <MESSAGE value=":heavy_plus_sign: 얕은 복사" />
-    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: 얕은 복사" />
+    <MESSAGE value=":heavy_plus_sign: 깊은 복사" />
+    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: 깊은 복사" />
   </component>
 </project>

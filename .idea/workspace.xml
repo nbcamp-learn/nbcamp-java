@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":sparkles: String 배열 선언, 생성, 초기화">
+    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: String 기능 활용">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/w02/ArrayString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w02/ArrayString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Array.executor": "Run",
+    "Application.ArrayString.executor": "Run",
     "Application.Hw01.executor": "Run",
     "Application.Hw02.executor": "Run",
     "Application.Main.executor": "Run",
@@ -182,7 +184,31 @@
       <option name="project" value="LOCAL" />
       <updated>1715616151668</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=":sparkles: String 기능 활용">
+      <option name="closed" value="true" />
+      <created>1715616302268</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715616302268</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":heavy_plus_sign: String 기능 활용">
+      <option name="closed" value="true" />
+      <created>1715616316683</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715616316683</updated>
+    </task>
+    <task id="LOCAL-00017" summary=":heavy_plus_sign: String 기능 활용">
+      <option name="closed" value="true" />
+      <created>1715778348457</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715778348457</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +235,8 @@
     <MESSAGE value=":heavy_plus_sign: 깊은 복사 메서드" />
     <MESSAGE value=":memo: ." />
     <MESSAGE value=":sparkles: String 배열 선언, 생성, 초기화" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: String 배열 선언, 생성, 초기화" />
+    <MESSAGE value=":sparkles: String 기능 활용" />
+    <MESSAGE value=":heavy_plus_sign: String 기능 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: String 기능 활용" />
   </component>
 </project>

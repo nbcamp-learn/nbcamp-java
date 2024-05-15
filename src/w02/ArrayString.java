@@ -44,5 +44,21 @@ public class ArrayString {
         char[] charArray = {'A', 'B', 'C'};
         String charArrayString = new String(charArray); // char[] 를 String 으로 변환
 
+
+        // 다차원 배열
+        // 중괄호를 사용해 초기화
+        int[][] array = {{1, 2, 3}, {4, 5, 6}};
+
+        // 반복문을 통한 초기화
+        int[][] array2 = new int[2][3]; // 최초 선언
+
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 0; j < array[i].length; j++) {
+                array2[i][j] = 0;  // i, j 는 위 노란색 네모박스 안에있는 숫자를 의미하며 인덱스 라고 부릅니다.
+                System.out.print(array[i][j]);
+            }
+            System.out.println();
+        }
+
     }
 }

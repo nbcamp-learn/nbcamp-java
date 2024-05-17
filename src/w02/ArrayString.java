@@ -60,5 +60,17 @@ public class ArrayString {
             System.out.println();
         }
 
+        // 가변 배열
+        // 선언 및 초기화
+        int[][] arr = new int[3][];
+
+        // 배열 원소마다 각기다른 크기로 지정 가능합니다.
+        arr[0] = new int[2];
+        arr[1] = new int[4];
+        arr[2] = new int[1];
+
+        // 중괄호 초기화할때도 원소배열들의 크기를 각기 다르게 생성 가능합니다.
+        int[][] arr2 = {{10, 20}, {10, 20, 30, 40}, {10}};
+
     }
 }

@@ -77,5 +77,14 @@ public class ArrayString {
         // 중괄호 3개를 써서 3차원 배열 초기화를 할 수 있습니다.
         int[][][] MultiArray = {{{1, 2}, {3, 4}}, {{5, 6}, {7, 8}}};
 
+        // 가변 2차원 배열 조회
+        int[][] arr3 = {{10, 20, 30}, {10, 20, 30, 40}, {10, 20}};
+
+        for (int i = 0; i < arr3.length; i++) { // 1차원 길이
+            for (int j = 0; j < arr3[i].length; j++) { // 2차원 길이
+                System.out.print(arr3[i][j]); // 2중 반복문으로 i, j 인덱스 순회
+            }
+            System.out.println();
+        }
     }
 }

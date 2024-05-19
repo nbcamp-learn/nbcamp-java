@@ -86,5 +86,22 @@ public class ArrayString {
             }
             System.out.println();
         }
+
+        // 최대값 구하기
+        int[] arr4 = {3, 2, 1, 5, 1};
+
+        // 최대값 초기값 세팅
+        int max = arr4[0];
+
+        // 최대값 구하기
+        for (int num : arr4) {
+            if (num > max) { // 반복문 돌면서 나(max)보다 값이 작으면 저장
+                max = num;
+            }
+        }
+
+        // 최대값 5 출력
+        System.out.println(max);
+
     }
 }

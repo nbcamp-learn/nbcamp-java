@@ -103,5 +103,22 @@ public class ArrayString {
         // 최대값 5 출력
         System.out.println(max);
 
+
+        // 최소값 구하기
+        int[] arr5 = {3, 2, 1, 5, 1};
+
+        // 최소값 초기값 세팅
+        int min = arr5[0];
+
+        // 최소값 구하기
+        for (int num : arr5) {
+            if (num < min) { // 반복문 돌면서 나(min)보다 값이 작으면 저장
+                min = num;
+            }
+        }
+
+        // 최소값 1 출력
+        System.out.println(min);
+
     }
 }

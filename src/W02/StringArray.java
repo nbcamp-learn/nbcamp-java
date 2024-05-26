@@ -1,4 +1,4 @@
-package array;
+package W02;
 
 public class StringArray {
 

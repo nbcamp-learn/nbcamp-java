@@ -1,4 +1,4 @@
-package array;
+package W02;
 
 import java.util.ArrayList;
 import java.util.Scanner;

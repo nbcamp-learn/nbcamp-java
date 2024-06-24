@@ -31,6 +31,7 @@ public class HW01 {
 
         System.out.println("[ " + title + " ]");
         System.out.println("별점 : " + star + "(" + (float) iStar + "%)");
+
         System.out.println("1. " + step1);
         System.out.println("2. " + step2);
         System.out.println("3. " + step3);

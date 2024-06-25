@@ -16,6 +16,7 @@ public class HW01 {
         sc.nextLine();
 
         System.out.println("요리 레시피");
+
         String step1 = sc.nextLine();
         String step2 = sc.nextLine();
         String step3 = sc.nextLine();

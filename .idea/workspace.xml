@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: String 기능 활용">
+    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: 다차원 배열 생성, 초기화">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w02/ArrayString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w02/ArrayString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715778348457</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=":heavy_plus_sign: 다차원 배열 생성, 초기화">
+      <option name="closed" value="true" />
+      <created>1715793145027</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715793145027</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +244,7 @@
     <MESSAGE value=":sparkles: String 배열 선언, 생성, 초기화" />
     <MESSAGE value=":sparkles: String 기능 활용" />
     <MESSAGE value=":heavy_plus_sign: String 기능 활용" />
-    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: String 기능 활용" />
+    <MESSAGE value=":heavy_plus_sign: 다차원 배열 생성, 초기화" />
+    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: 다차원 배열 생성, 초기화" />
   </component>
 </project>

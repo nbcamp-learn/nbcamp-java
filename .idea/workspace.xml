@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
+    <list default="true" id="40db2286-7fe1-4aca-ae22-afec07d431a3" name="Changes" comment=":heavy_plus_sign: String 기능 활용">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w02/ArrayString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w02/ArrayString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +21,24 @@
     </option>
   </component>
   <component name="Git.Settings">
-
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nbcamp-learn/nbcamp-java.git",
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Eevee &lt;156054454+eeeevee@users.noreply.github.com&gt;" />
+        <option value="Eevee" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nbcamp-learn/nbcamp-java.git&quot;,
+    &quot;accountId&quot;: &quot;7739ce33-21e8-4144-bfe3-0b54ccabf8f7&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -37,6 +50,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.ArrayString.executor": "Run",
+    "Application.Hw01.executor": "Run",
+    "Application.Hw02.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.github.patou.gitmoji.display-icon": "emoji",
+    "com.github.patou.gitmoji.text-after-unicode": " ",
+    "git-widget-placeholder": "Eevee",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,6 +72,143 @@
       <option name="presentableId" value="Default" />
       <updated>1714575401045</updated>
     </task>
+    <task id="LOCAL-00001" summary=":memo: plugin 설정 변경">
+      <option name="closed" value="true" />
+      <created>1714748569642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714748569642</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":memo: 주석종류">
+      <option name="closed" value="true" />
+      <created>1714748583145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714748583145</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":sparkles: 1주차 과제">
+      <option name="closed" value="true" />
+      <created>1714748971642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714748971642</updated>
+    </task>
+    <task id="LOCAL-00004" summary=":sparkles: 2주차 과제">
+      <option name="closed" value="true" />
+      <created>1714749747099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714749747099</updated>
+    </task>
+    <task id="LOCAL-00005" summary=":sparkles: 연산자 우선순위">
+      <option name="closed" value="true" />
+      <created>1714921137529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921137529</updated>
+    </task>
+    <task id="LOCAL-00006" summary=":sparkles: 연산자 우선순위">
+      <option name="closed" value="true" />
+      <created>1714921045164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921045164</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":heavy_plus_sign: 산술 변환, 비트 연산">
+      <option name="closed" value="true" />
+      <created>1714921471982</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921471982</updated>
+    </task>
+    <task id="LOCAL-00008" summary=":heavy_plus_sign: 얕은 복사">
+      <option name="closed" value="true" />
+      <created>1715439035342</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715439035342</updated>
+    </task>
+    <task id="LOCAL-00009" summary=":heavy_plus_sign: 깊은 복사">
+      <option name="closed" value="true" />
+      <created>1715439158629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715439158629</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":heavy_plus_sign: 깊은 복사">
+      <option name="closed" value="true" />
+      <created>1715446386023</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715446386023</updated>
+    </task>
+    <task id="LOCAL-00011" summary=":heavy_plus_sign: 깊은 복사 메서드">
+      <option name="closed" value="true" />
+      <created>1715612240396</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715612240396</updated>
+    </task>
+    <task id="LOCAL-00012" summary=":memo: .">
+      <option name="closed" value="true" />
+      <created>1715615885035</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715615885035</updated>
+    </task>
+    <task id="LOCAL-00013" summary=":memo: .">
+      <option name="closed" value="true" />
+      <created>1715615923292</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715615923292</updated>
+    </task>
+    <task id="LOCAL-00014" summary=":sparkles: String 배열 선언, 생성, 초기화">
+      <option name="closed" value="true" />
+      <created>1715616151668</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715616151668</updated>
+    </task>
+    <task id="LOCAL-00015" summary=":sparkles: String 기능 활용">
+      <option name="closed" value="true" />
+      <created>1715616302268</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715616302268</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":heavy_plus_sign: String 기능 활용">
+      <option name="closed" value="true" />
+      <created>1715616316683</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715616316683</updated>
+    </task>
+    <task id="LOCAL-00017" summary=":heavy_plus_sign: String 기능 활용">
+      <option name="closed" value="true" />
+      <created>1715778348457</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715778348457</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,11 +216,27 @@
       <map>
         <entry key="MAIN">
           <value>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value=":memo: plugin 설정 변경" />
+    <MESSAGE value=":memo: 주석종류" />
+    <MESSAGE value=":sparkles: 1주차 과제" />
+    <MESSAGE value=":sparkles: 2주차 과제" />
+    <MESSAGE value="fixup! :sparkles: 2주차 과제" />
+    <MESSAGE value=":sparkles: 연산자 우선순위" />
+    <MESSAGE value=":heavy_plus_sign: 산술 변환, 비트 연산" />
+    <MESSAGE value=":heavy_plus_sign: 얕은 복사" />
+    <MESSAGE value=":heavy_plus_sign: 깊은 복사" />
+    <MESSAGE value=":heavy_plus_sign: 깊은 복사 메서드" />
+    <MESSAGE value=":memo: ." />
+    <MESSAGE value=":sparkles: String 배열 선언, 생성, 초기화" />
+    <MESSAGE value=":sparkles: String 기능 활용" />
+    <MESSAGE value=":heavy_plus_sign: String 기능 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value=":heavy_plus_sign: String 기능 활용" />
   </component>
 </project>
